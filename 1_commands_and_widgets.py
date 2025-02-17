@@ -118,8 +118,8 @@ st.write("---")
 # @st.cache_data
 # def load_your_data():
 #     np.random.seed(1)
-#     df = pd.DataFrame(data={"Col1":np.random.randint(low=-100,high=100,size=10),
-#                         "Col2":np.random.randint(low=25,high=80,size=10)
+#     df = pd.DataFrame(data={"Col1":np.random.randint(low=-700,high=150,size=15),
+#                         "Col2":np.random.randint(low=25,high=990,size=15)
 #                         })
 #     return df
 
